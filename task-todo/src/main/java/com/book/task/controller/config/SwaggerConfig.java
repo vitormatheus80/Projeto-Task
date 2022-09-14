@@ -1,4 +1,4 @@
-package com.book.task.config;
+package com.book.task.controller.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
